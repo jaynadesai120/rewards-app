@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Leanne Graham",
+    "transactions": [
+      123, 300, 50
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "transactions": [
+      110, 201, 152
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Clementine Bauch",
+    "transactions": [
+      73, 290, 42
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Patricia Lebsack",
+    "transactions": [
+      98, 10, 187
+    ]
+  }
+]
